@@ -37,7 +37,7 @@
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: [(https://www.linkedin.com/in/malindu-wijayarathna-1741a4223/)]
+- LinkedIn: (https://www.linkedin.com/in/malindu-wijayarathna-1741a4223/)
 - Email: (malinduwijayarathna@gmail.com)
 
 ---
