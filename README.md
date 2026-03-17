@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Malindu Wijayarathna
 
-<!--
-**malindumawi/malindumawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Cybersecurity Enthusiast | Associate Software Engineer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 About Me
+- 🎓 Software Engineering Graduate
+- 💼 Associate Software Engineer
+- 🛡️ Passionate about Cybersecurity & Threat Analysis
+- 📱 Built AI-powered mobile applications using Flutter
+
+---
+
+## 🚀 Projects
+
+### 🔹 CurenZee – Currency Recognition App
+- YOLOv8-based real-time detection system
+- Flutter frontend + Flask backend
+- CLAHE-based low-light enhancement
+
+### 🔹 Silent Shadow – OSINT Project
+- Passive reconnaissance on ikman.lk
+- Attack surface mapping & risk analysis
+
+### 🔹 Environmental Monitoring System
+- IoT system using Raspberry Pi Pico W + BME280
+
+---
+
+## 🛠️ Tech Stack
+- 💻 Programming: Python, Java, Dart, JavaScript
+- 🛡️ Security: Nmap, Wireshark, Metasploit, Burp Suite
+- 📱 Mobile: Flutter
+- ⚙️ Tools: Git, Docker, Kali Linux, Firebase
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: [(https://www.linkedin.com/in/malindu-wijayarathna-1741a4223/)]
+- Email: (malinduwijayarathna@gmail.com)
+
+---
+⭐ Check out my repositories below!
