@@ -56,7 +56,8 @@ Git • Docker • Kali Linux • Linux
 ---
 
 ## 📫 Connect with Me
-- 🔗 LinkedIn: (https://www.linkedin.com/in/malindu-wijayarathna-1741a4223/)
+- 🔗 LinkedIn: (https://www.linkedin.com/in/malindu-wijayarathna-1741a4223)
+- 🔗 Portfolio: (https://malinduwijayarathna.netlify.app)
 - 📧 Email: (malinduwijayarathna@gmail.com)
 
 ---
