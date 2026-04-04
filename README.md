@@ -48,16 +48,16 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Programming
-Python • Java • Dart • JavaScript  
+Python • Java • Dart • JavaScript • SQL • HTML • CSS
 
 ### 🛡️ Cybersecurity
-Nmap • Wireshark • Metasploit • Burp Suite • OSINT  
+Vulnerability Assessment • Threat Detection • Incident Response • Network Traffic Analysis • Digital Forensics • OWASP Top 10 • DNS Enumeration • OSINT
 
 ### 📱 Development
-Flutter • Firebase • REST APIs  
+Flutter • Firebase • REST APIs • Figma
 
 ### ⚙️ Tools & Platforms
-Git • Docker • Kali Linux • Linux  
+Burp Suite • Wireshark • Nmap • Metasploit • Wazuh • SIEM • Kali Linux • Linux • Windows • Git • Docker • Oracle
 
 ---
 
