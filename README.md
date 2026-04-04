@@ -18,7 +18,13 @@
 ### 🔹 CurenZee – Currency Recognition System
 - YOLOv8-based real-time detection for Sri Lankan currency  
 - Flutter frontend + Flask backend  
-- CLAHE-based low-light image enhancement  
+- CLAHE-based low-light image enhancement
+
+### 🔹 Passive Reconnaissance of VulnApp Solutions Inc.
+- Passive reconnaissance on a PHP-based web application hosted on a bare IP
+- Enumerated visible and hidden endpoints, inspected HTML source and HTTP responses
+- Identified issues including unauthenticated admin access, IDOR, reflected XSS evidence,
+  missing CSRF protection, insecure transport, and exposed configuration endpoints
 
 ### 🔹 Silent Shadow – OSINT & Attack Surface Assessment
 - Passive reconnaissance on a corporate platform  
